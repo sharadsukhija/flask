@@ -19,5 +19,10 @@ import c:\shara\desktop\ev.py
 contact=('+919837057888,+918057083888&+919837083888')
 address+("alaknanda traders,rambag Dineshpur ")
 loop line 1-21
+get api_key==AAPK3dcdfe95294c495ea1cc784b503263386yVhPnH8Mf_-NpdaoWbDLaAML8V510XPJVchn_SxQfJXHY3SRhH-UwZ1dNHb6WTF
+establish@location_290303north.791824east 
 qdk deveops line 8,9 as line 14&19,20
+import mod_nlp
+import mod_nup
+cors nlp nup
 return as result=1
